@@ -1,0 +1,25 @@
+{
+    "Usuarios_UPS": [
+      {
+        "latitude": 40.416875,
+        "longitude": -3.703308,
+        "correo": "jquilachaminb@est.ups.edu.ec",
+        "numero": "0984581915",
+	      "nombre":"Jordy Quilachamin"
+      },
+       {
+        "latitude": 51,049259,
+        "longitude": 13,73836,
+        "correo": "jestacios@est.ups.edu.ec",
+        "numero": "09959530874",
+	      "nombre":"Burro Estacio"
+      },
+       {
+        "latitude": 40.416875,
+        "longitude": -3.703308,
+        "correo": "jquilachaminb@est.ups.edu.ec",
+        "numero": "0984581915",
+	      "nombre":"Carlos"
+      }
+    ]
+}
